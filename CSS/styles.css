@@ -1,0 +1,211 @@
+#welcome{
+  background-color: #FFB319;
+  text-align: center;
+}
+
+/* Navigation Bar */
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+  font-weight: bolder;
+  color: #171010;
+}
+
+.nav-item{
+  padding: 0px 10px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-link{
+  color: #362222;
+}
+.navbar{
+  padding: 3% 8%;
+}
+
+/* Body of welcome ID */
+
+.welcome-container{
+  padding: 3%;
+}
+.welcome-h1{
+  padding-top: 70px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  font-weight: bolder;
+  color: #171010;
+}
+
+.welcome-h2{
+  padding-bottom: 70px;
+}
+
+.btn{
+  margin-left: 20px;
+}
+
+/* ABOUT ONLINE CASHBOOK */
+
+.jumbotron{
+  background-color: #FFE194;
+}
+
+.jumbotron-heading{
+  font-weight: bold;
+  font-size: 4.5rem;
+  color: #171010;
+}
+
+.jumbotron-paragraph1{
+  color: #362222;
+  font-weight:bolder;
+}
+
+.jumbotron-paragraph2{
+  font-family: 'Merriweather', serif;
+  color: #2B2B2B;
+  font-weight: 500;
+}
+
+.jumbotron-paragrph3{
+  padding-top: 20px;
+}
+
+.jumbotron-button{
+  margin-left: 0px;
+  background-color: #FFB319;
+}
+
+/* FEATURES SECTION OF THE ONLINE CASHBOOK */
+#features{
+  text-align: center;
+}
+
+.features-icon{
+  color: #FFB319;
+  padding-bottom: 20px;
+}
+
+.features-h3{
+  color: #171010;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  padding-bottom: 25px;
+}
+
+.features-paragraph1{
+  font-family: 'Merriweather', serif;
+  color: #2B2B2B;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* DOWNLOAD SECTION OF THE ONLINE CASHBOOK */
+#Download{
+  background-color: red;
+  height: 600px;
+  text-align: center;
+  background-color: #FFE194;
+}
+
+.download-h2{
+  color: #171010;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  padding-top: 40px;
+}
+
+.download-paragraph1{
+  font-family: 'Merriweather', serif;
+  color: #2B2B2B;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.download-h3{
+  font-family: 'Ubuntu', sans-serif;
+  color: #362222;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.parent-icon{
+  color: #171010;
+}
+
+.download-button{
+  background-color: #FFB319;
+  margin-left: 40px;
+}
+
+.carousel-indicators{
+  top: 300px;
+  filter: invert(1);
+}
+
+.carousel-control-prev{
+  filter: invert(1);
+}
+
+.carousel-control-next{
+  filter: invert(1);
+}
+
+/* CONTACT SECTION OF CONTACTBOOK */
+
+#contact{
+  text-align: center;
+}
+
+.contact-container{
+  padding: 0% 20%;
+}
+
+.card{
+  border: 0px;
+  padding-top: 5%;
+}
+
+.card-header{
+  color: #171010;
+}
+
+.card-text{
+  font-size: 1rem;
+  color: #171010;
+  font-weight: bold;
+}
+
+.contact-button{
+  background-color: #171010;
+}
+
+.contact-background{
+  background-color: #FFB319;
+}
+
+
+/* FOOTER SECTION OF THE CONTACTBOOK */
+
+#footer{
+  background-color: #FFE194;
+  text-align: center;
+  margin-top: 3%;
+}
+.footer-icons{
+  padding-bottom: 30px;
+  padding-left: 20px;
+  color: #171010;
+}
+.footer-container{
+  height:150px;
+  padding-top: 70px;
+}
+
+.copyright-color{
+    color: #2B2B2B;
+}
